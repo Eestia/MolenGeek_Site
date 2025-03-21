@@ -74,3 +74,17 @@ p{
 #liste li::marker {
     color:rgba(155,0,157,255);
 }
+ #df1{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    font-family: Lato;
+    color: white;
+}
+/* #df2{
+    height: 200px;
+    width: 100%;
+}  */
+hr {
+    border: 1px solid rgba(62,62,62,255);
+  }
