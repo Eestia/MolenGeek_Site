@@ -78,8 +78,9 @@ button{
     text-align: center;
 }
 #t2{
-    font-family: Montserrat,ExtraLight;
-    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: light;
+    font-size:30px;
 }
 p{
     font-family: Lato;
