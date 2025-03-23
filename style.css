@@ -160,6 +160,9 @@ hr {
 #df1 a i{
     border: 2px solid white;
     border-radius: 50%;
-    
-
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
